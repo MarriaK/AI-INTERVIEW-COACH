@@ -1,7 +1,5 @@
 # SMART AI Interview Coach using RAG
 
-![Project Banner](https://via.placeholder.com/800x200?text=AI+Interview+Coach+RAG+System) <!-- Replace with actual image if available -->
-
 An intelligent interview preparation system using Retrieval-Augmented Generation (RAG) to provide dynamic technical questions and AI-powered answer evaluation.
 
 ## Key Features
