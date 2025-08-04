@@ -22,8 +22,3 @@ An intelligent interview preparation system using Retrieval-Augmented Generation
 | Framework               | LangChain               |
 | Web Interface           | Streamlit               |
 | Dataset                 | 600 Q&A pairs (JSON)    |
-
-## Installation
-```bash
-git clone https://github.com/yourusername/ai-interview-coach.git
-cd ai-interview-coach
